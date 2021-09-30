@@ -1,6 +1,6 @@
 # Robin-Hood-Case-Study
 
-![RobinHood Image](download.jpeg)
+![RobinHood Image](images/download.jpeg)
 
 ## Case Study about RObin Hood Crypto Exchange
 
